@@ -15,7 +15,6 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333333;
-    /* position:fixed; */
     width:100%;
 }
   
@@ -34,9 +33,6 @@ li a {
 li a:hover {
     background-color: #5a0000;
 }
-/* .feed{
-    margin-top: 50px;
-} */
 .column {
     float: left;
     width: 33.33%;
@@ -49,10 +45,6 @@ li a:hover {
 }
 .border{
     border-bottom: groove 3px  #111111;
-}
-/* .image{
-   height:1000px;
-   width:300px; */
 }
 h2{
     text-align: center;
@@ -78,11 +70,6 @@ footer{
     text-align: center;
     color:whitesmoke;
     text-shadow: 3px 3px 5px yellowgreen;
-}
-/* #image{
-    display: flex;
-    flex-direction:column;
-    justify-items: flex-start; */
 }
 .img{
     float: left;
